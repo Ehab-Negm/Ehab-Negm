@@ -28,7 +28,7 @@
 ### 🌐 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/ehab-negm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ehab%20Negm-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:ehab1negm@gmil.com"><img src="https://img.shields.io/badge/Email-ehab.negm%40example.com-red?style=flat-square&logo=gmail"></a>
+<a href="mailto:ehab1negm@gmil.com"><img src="https://img.shields.io/badge/Email-ehab1negm%40gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
