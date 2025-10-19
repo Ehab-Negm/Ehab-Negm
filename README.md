@@ -1,6 +1,6 @@
 # EhabNegm
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm Ehab Negm</h1>
+<h1 align="center">Hello, I'm Ehab Negm</h1>
 <h3 align="center">🎓 Artificial Intelligence & IoT Student | Building Smart Systems through Data & Devices</h3>
 
 ---
