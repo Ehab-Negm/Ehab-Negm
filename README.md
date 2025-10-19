@@ -24,20 +24,11 @@
 #### 🧰 Tools
 `Git` `VS Code` `Jupyter` `Google Colab` `FastAPI` `Node-RED`
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EhabNegm&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhabNegm&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ### 🌐 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/ehab-negm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ehab%20Negm-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:ehab.negm@example.com"><img src="https://img.shields.io/badge/Email-ehab.negm%40example.com-red?style=flat-square&logo=gmail"></a>
+<a href="mailto:ehab1negm@gmil.com"><img src="https://img.shields.io/badge/Email-ehab.negm%40example.com-red?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
